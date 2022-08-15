@@ -1,4 +1,4 @@
 
 *.class
 .project
-.project
+.DS_Store
